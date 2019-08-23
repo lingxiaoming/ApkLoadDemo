@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApkLoadDemo</string>
+    <string name="text_title">现在是宿主apk的资源</string>
+</resources>
